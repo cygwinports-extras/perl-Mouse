@@ -1,0 +1,10 @@
+CPAN_AUTHOR=gfuji
+inherit perl
+
+NAME="perl-Mouse"
+VERSION=2.2.0
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl lightweight Moose-compatible object system"
+DESCRIPTION="Mouse is a Moose compatible object system, which aims to alleviate
+its compile-time penalty by providing a subset of Moose's functionality."
